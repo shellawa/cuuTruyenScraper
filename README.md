@@ -1,2 +1,2 @@
 # cuuTruyenScraper
-> Usage: node index.js <chapterId>
+Usage: node index.js \<chapterId\>
